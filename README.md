@@ -1,5 +1,5 @@
-### Hi i'm gustavo and i work with Salesforce development  👋
-## Oii eu sou o Gustavo Reis, desenvolvedor Salesforce!👋
+### Hi, i'm Gustavo and i work with Salesforce development  👋
+## Oii, eu sou o Gustavo e trabalho como desenvolvedor Salesforce!👋
 
 <!--
 **gustavo10rc/gustavo10rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Gus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gus-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Gus-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Gus-vs-code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="right" alt="Gus-pic" height="170" style="border-radius:50px;" src="https://www.salesforce.com/content/dam/blogs/br/2021/personagens-salesforce-astro.png"> 
 </div>
   
